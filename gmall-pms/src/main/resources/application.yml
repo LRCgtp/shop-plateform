@@ -1,0 +1,18 @@
+server:
+  port: 8081
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        file-extension: yml
+        namespace: 075b3dd6-4ade-4ea5-9158-9e957dc409c4
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/guli_pms?serverTimezone=UTC
+    username: root
+    password: root
+  redis:
+    host: 47.93.183.224
+    port: 6379

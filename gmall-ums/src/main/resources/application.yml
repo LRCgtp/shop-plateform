@@ -1,0 +1,15 @@
+server:
+  port: 8084
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        file-extension: yml
+        namespace: 5cc229bd-550d-4aa7-a743-d3c5c1b1f74e
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/guli_ums?serverTimezone=UTC
+    username: root
+    password: root

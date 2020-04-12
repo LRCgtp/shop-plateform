@@ -1,0 +1,202 @@
+2020-04-10 08:00:59,799 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 08:07:32,468 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 08:07:56,402 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 11:22:41,738 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 11:22:44,968 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 11:22:57,162 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 11:22:59,975 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 12:02:14,719 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 12:02:22,154 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 13:27:42,259 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 13:27:42,261 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 13:27:45,738 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 13:29:08,848 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 13:29:08,848 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 13:29:12,333 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 16:05:11,435 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 16:05:11,438 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 169.254.105.205:52153, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,52153,459303701775600
+
+2020-04-10 16:05:11,439 INFO send udp packet: 169.254.105.205,52153,459303701775600
+
+2020-04-10 16:05:11,465 INFO received ack: {"type": "push-ack", "lastRefTime":"459303701775600", "data":""} from: 169.254.105.205:, cost: 52153 ms, unacked: 25, total push: 0
+
+2020-04-10 16:09:05,305 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 16:09:05,305 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 169.254.105.205:49498, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,49498,459537570921400
+
+2020-04-10 16:09:05,305 INFO send udp packet: 169.254.105.205,49498,459537570921400
+
+2020-04-10 16:09:05,309 INFO received ack: {"type": "push-ack", "lastRefTime":"459537570921400", "data":""} from: 169.254.105.205:, cost: 49498 ms, unacked: 4, total push: 0
+
+2020-04-10 16:10:15,522 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 16:10:15,523 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 169.254.105.205:56895, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,56895,459607788437500
+
+2020-04-10 16:10:15,523 INFO send udp packet: 169.254.105.205,56895,459607788437500
+
+2020-04-10 16:10:15,534 INFO received ack: {"type": "push-ack", "lastRefTime":"459607788437500", "data":""} from: 169.254.105.205:, cost: 56895 ms, unacked: 11, total push: 0
+
+2020-04-10 16:10:30,529 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 16:10:30,529 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 169.254.105.205:57346, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,57346,459622795578500
+
+2020-04-10 16:10:30,529 INFO send udp packet: 169.254.105.205,57346,459622795578500
+
+2020-04-10 16:10:30,533 INFO received ack: {"type": "push-ack", "lastRefTime":"459622795578500", "data":""} from: 169.254.105.205:, cost: 57346 ms, unacked: 4, total push: 0
+
+2020-04-10 16:11:55,537 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 16:11:55,537 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 169.254.105.205:57346, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,57346,459707803324200
+
+2020-04-10 16:11:55,537 INFO send udp packet: 169.254.105.205,57346,459707803324200
+
+2020-04-10 16:11:55,537 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 16:11:55,538 INFO serviceName: DEFAULT_GROUP@@service-cosumer changed, schedule push for: 169.254.105.205:57346, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,57346,459707803764000
+
+2020-04-10 16:11:55,538 INFO send udp packet: 169.254.105.205,57346,459707803764000
+
+2020-04-10 16:11:55,544 INFO received ack: {"type": "push-ack", "lastRefTime":"459707803324200", "data":""} from: 169.254.105.205:, cost: 57346 ms, unacked: 7, total push: 1
+
+2020-04-10 16:11:55,545 INFO received ack: {"type": "push-ack", "lastRefTime":"459707803764000", "data":""} from: 169.254.105.205:, cost: 57346 ms, unacked: 7, total push: 0
+
+2020-04-10 16:12:10,542 INFO DEFAULT_GROUP@@service-cosumer is changed, add it to push queue.
+
+2020-04-10 16:12:10,542 INFO serviceName: DEFAULT_GROUP@@service-cosumer changed, schedule push for: 169.254.105.205:57346, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,57346,459722807890600
+
+2020-04-10 16:12:10,542 INFO send udp packet: 169.254.105.205,57346,459722807890600
+
+2020-04-10 16:12:10,542 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 16:12:10,542 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 169.254.105.205:57346, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,57346,459722808120200
+
+2020-04-10 16:12:10,542 INFO send udp packet: 169.254.105.205,57346,459722808120200
+
+2020-04-10 16:12:10,548 INFO received ack: {"type": "push-ack", "lastRefTime":"459722807890600", "data":""} from: 169.254.105.205:, cost: 57346 ms, unacked: 6, total push: 1
+
+2020-04-10 16:12:10,553 INFO received ack: {"type": "push-ack", "lastRefTime":"459722808120200", "data":""} from: 169.254.105.205:, cost: 57346 ms, unacked: 11, total push: 0
+
+2020-04-10 16:13:22,898 INFO DEFAULT_GROUP@@service-provider24487 is changed, add it to push queue.
+
+2020-04-10 16:13:30,558 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 16:13:30,558 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 169.254.105.205:58178, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,58178,459802823577100
+
+2020-04-10 16:13:30,558 INFO send udp packet: 169.254.105.205,58178,459802823577100
+
+2020-04-10 16:13:30,560 INFO received ack: {"type": "push-ack", "lastRefTime":"459802823577100", "data":""} from: 169.254.105.205:, cost: 58178 ms, unacked: 2, total push: 0
+
+2020-04-10 16:13:45,562 INFO DEFAULT_GROUP@@service-provider is changed, add it to push queue.
+
+2020-04-10 16:13:45,562 INFO serviceName: DEFAULT_GROUP@@service-provider changed, schedule push for: 169.254.105.205:58178, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,58178,459817828061500
+
+2020-04-10 16:13:45,562 INFO send udp packet: 169.254.105.205,58178,459817828061500
+
+2020-04-10 16:13:45,572 INFO received ack: {"type": "push-ack", "lastRefTime":"459817828061500", "data":""} from: 169.254.105.205:, cost: 58178 ms, unacked: 10, total push: 0
+
+2020-04-10 16:16:47,345 INFO DEFAULT_GROUP@@serive-cosumer24487 is changed, add it to push queue.
+
+2020-04-10 21:56:45,800 INFO DEFAULT_GROUP@@serive-cosumer24487 is changed, add it to push queue.
+
+2020-04-10 21:56:45,800 INFO DEFAULT_GROUP@@service-provider24487 is changed, add it to push queue.
+
+2020-04-10 21:56:47,711 INFO DEFAULT_GROUP@@serive-cosumer24487 is changed, add it to push queue.
+
+2020-04-10 21:56:47,712 INFO serviceName: DEFAULT_GROUP@@serive-cosumer24487 changed, schedule push for: 169.254.105.205:50309, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,50309,480399988207700
+
+2020-04-10 21:56:47,712 INFO send udp packet: 169.254.105.205,50309,480399988207700
+
+2020-04-10 21:56:47,797 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"metadata":{},"dom":"DEFAULT_GROUP@@serive-cosumer24487","cacheMillis":10000,"useSpecifiedURL":false,"hosts":[{"valid":true,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceId":"10.0.26.41#9090#DEFAULT#DEFAULT_GROUP@@serive-cosumer24487","port":9090,"healthy":true,"ip":"10.0.26.41","clusterName":"DEFAULT","weight":1.0,"ephemeral":true,"serviceName":"DEFAULT_GROUP@@serive-cosumer24487","enabled":true}],"name":"DEFAULT_GROUP@@serive-cosumer24487","checksum":"84ae308b1fca699ecaf7398497b54fd6","lastRefTime":1586527007711,"env":"","clusters":""}, lastRefTime=480399988207700} to client: 169.254.105.205, error: {}
+
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:579)
+	at com.alibaba.nacos.naming.push.PushService.access$500(PushService.java:51)
+	at com.alibaba.nacos.naming.push.PushService$4.run(PushService.java:184)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-10 21:56:47,800 INFO serviceName: DEFAULT_GROUP@@serive-cosumer24487 changed, schedule push for: 169.254.105.205:58178, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,58178,480399988207700
+
+2020-04-10 21:56:47,800 INFO send udp packet: 169.254.105.205,58178,480399988207700
+
+2020-04-10 21:56:47,801 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"metadata":{},"dom":"DEFAULT_GROUP@@serive-cosumer24487","cacheMillis":10000,"useSpecifiedURL":false,"hosts":[{"valid":true,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceId":"10.0.26.41#9090#DEFAULT#DEFAULT_GROUP@@serive-cosumer24487","port":9090,"healthy":true,"ip":"10.0.26.41","clusterName":"DEFAULT","weight":1.0,"ephemeral":true,"serviceName":"DEFAULT_GROUP@@serive-cosumer24487","enabled":true}],"name":"DEFAULT_GROUP@@serive-cosumer24487","checksum":"84ae308b1fca699ecaf7398497b54fd6","lastRefTime":1586527007800,"env":"","clusters":""}, lastRefTime=480399988207700} to client: 169.254.105.205, error: {}
+
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:579)
+	at com.alibaba.nacos.naming.push.PushService.access$500(PushService.java:51)
+	at com.alibaba.nacos.naming.push.PushService$4.run(PushService.java:184)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-10 21:56:47,801 INFO DEFAULT_GROUP@@service-provider24487 is changed, add it to push queue.
+
+2020-04-10 21:56:47,801 INFO serviceName: DEFAULT_GROUP@@service-provider24487 changed, schedule push for: 169.254.105.205:58178, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,58178,480400079075500
+
+2020-04-10 21:56:47,801 INFO send udp packet: 169.254.105.205,58178,480400079075500
+
+2020-04-10 21:56:47,802 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"metadata":{},"dom":"DEFAULT_GROUP@@service-provider24487","cacheMillis":10000,"useSpecifiedURL":false,"hosts":[{"valid":true,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceId":"10.0.26.41#8080#DEFAULT#DEFAULT_GROUP@@service-provider24487","port":8080,"healthy":true,"ip":"10.0.26.41","clusterName":"DEFAULT","weight":1.0,"ephemeral":true,"serviceName":"DEFAULT_GROUP@@service-provider24487","enabled":true}],"name":"DEFAULT_GROUP@@service-provider24487","checksum":"c6680d626196b51d0533d6983af0e7e1","lastRefTime":1586527007801,"env":"","clusters":""}, lastRefTime=480400079075500} to client: 169.254.105.205, error: {}
+
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:579)
+	at com.alibaba.nacos.naming.push.PushService.access$500(PushService.java:51)
+	at com.alibaba.nacos.naming.push.PushService$4.run(PushService.java:184)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-04-10 21:56:47,802 INFO serviceName: DEFAULT_GROUP@@service-provider24487 changed, schedule push for: 169.254.105.205:50309, agent: Nacos-Java-Client:v1.0.0, key: 169.254.105.205,50309,480400079075500
+
+2020-04-10 21:56:47,802 INFO send udp packet: 169.254.105.205,50309,480400079075500
+
+2020-04-10 21:56:47,802 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"metadata":{},"dom":"DEFAULT_GROUP@@service-provider24487","cacheMillis":10000,"useSpecifiedURL":false,"hosts":[{"valid":true,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceId":"10.0.26.41#8080#DEFAULT#DEFAULT_GROUP@@service-provider24487","port":8080,"healthy":true,"ip":"10.0.26.41","clusterName":"DEFAULT","weight":1.0,"ephemeral":true,"serviceName":"DEFAULT_GROUP@@service-provider24487","enabled":true}],"name":"DEFAULT_GROUP@@service-provider24487","checksum":"c6680d626196b51d0533d6983af0e7e1","lastRefTime":1586527007802,"env":"","clusters":""}, lastRefTime=480400079075500} to client: 169.254.105.205, error: {}
+
+java.net.SocketException: Network is unreachable: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:579)
+	at com.alibaba.nacos.naming.push.PushService.access$500(PushService.java:51)
+	at com.alibaba.nacos.naming.push.PushService$4.run(PushService.java:184)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

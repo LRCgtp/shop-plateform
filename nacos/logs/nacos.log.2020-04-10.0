@@ -1,0 +1,562 @@
+2020-04-10 00:07:25,255 INFO [capacityManagement] start correct usage
+
+2020-04-10 00:07:25,262 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 00:07:25,463 WARN clearConfigHistory start
+
+2020-04-10 00:17:25,268 INFO [capacityManagement] start correct usage
+
+2020-04-10 00:17:25,269 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 00:17:25,472 WARN clearConfigHistory start
+
+2020-04-10 00:27:25,275 INFO [capacityManagement] start correct usage
+
+2020-04-10 00:27:25,279 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 00:27:25,475 WARN clearConfigHistory start
+
+2020-04-10 00:37:25,279 INFO [capacityManagement] start correct usage
+
+2020-04-10 00:37:25,281 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 00:37:25,479 WARN clearConfigHistory start
+
+2020-04-10 00:47:25,290 INFO [capacityManagement] start correct usage
+
+2020-04-10 00:47:25,290 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 00:47:25,485 WARN clearConfigHistory start
+
+2020-04-10 00:57:25,294 INFO [capacityManagement] start correct usage
+
+2020-04-10 00:57:25,298 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 00:57:25,491 WARN clearConfigHistory start
+
+2020-04-10 01:07:25,300 INFO [capacityManagement] start correct usage
+
+2020-04-10 01:07:25,302 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 01:07:25,497 WARN clearConfigHistory start
+
+2020-04-10 01:17:25,303 INFO [capacityManagement] start correct usage
+
+2020-04-10 01:17:25,305 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 01:17:25,501 WARN clearConfigHistory start
+
+2020-04-10 07:19:12,174 WARN clearConfigHistory start
+
+2020-04-10 07:23:53,568 INFO [capacityManagement] start correct usage
+
+2020-04-10 07:23:53,570 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 07:29:12,179 WARN clearConfigHistory start
+
+2020-04-10 07:33:53,571 INFO [capacityManagement] start correct usage
+
+2020-04-10 07:33:53,572 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 07:39:12,181 WARN clearConfigHistory start
+
+2020-04-10 07:43:53,573 INFO [capacityManagement] start correct usage
+
+2020-04-10 07:43:53,573 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 07:49:12,183 WARN clearConfigHistory start
+
+2020-04-10 07:53:53,575 INFO [capacityManagement] start correct usage
+
+2020-04-10 07:53:53,576 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 07:59:12,184 WARN clearConfigHistory start
+
+2020-04-10 08:01:47,904 INFO Expired JWT token.
+
+2020-04-10 08:01:47,905 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-04-10 08:03:53,577 INFO [capacityManagement] start correct usage
+
+2020-04-10 08:03:53,577 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 08:09:12,189 WARN clearConfigHistory start
+
+2020-04-10 08:13:53,579 INFO [capacityManagement] start correct usage
+
+2020-04-10 08:13:53,579 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 08:19:12,192 WARN clearConfigHistory start
+
+2020-04-10 08:23:53,581 INFO [capacityManagement] start correct usage
+
+2020-04-10 08:23:53,581 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 08:29:12,196 WARN clearConfigHistory start
+
+2020-04-10 08:33:53,583 INFO [capacityManagement] start correct usage
+
+2020-04-10 08:33:53,583 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 08:39:12,202 WARN clearConfigHistory start
+
+2020-04-10 08:43:53,599 INFO [capacityManagement] start correct usage
+
+2020-04-10 08:43:53,599 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 08:49:12,214 WARN clearConfigHistory start
+
+2020-04-10 08:53:53,602 INFO [capacityManagement] start correct usage
+
+2020-04-10 08:53:53,602 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 08:59:12,215 WARN clearConfigHistory start
+
+2020-04-10 09:03:53,609 INFO [capacityManagement] start correct usage
+
+2020-04-10 09:03:53,614 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 09:09:12,219 WARN clearConfigHistory start
+
+2020-04-10 09:13:53,618 INFO [capacityManagement] start correct usage
+
+2020-04-10 09:13:53,620 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 09:19:12,225 WARN clearConfigHistory start
+
+2020-04-10 09:23:53,623 INFO [capacityManagement] start correct usage
+
+2020-04-10 09:23:53,628 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 09:29:12,229 WARN clearConfigHistory start
+
+2020-04-10 09:33:53,634 INFO [capacityManagement] start correct usage
+
+2020-04-10 09:33:53,636 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 09:39:12,235 WARN clearConfigHistory start
+
+2020-04-10 09:43:53,637 INFO [capacityManagement] start correct usage
+
+2020-04-10 09:43:53,637 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 09:49:12,244 WARN clearConfigHistory start
+
+2020-04-10 09:53:53,643 INFO [capacityManagement] start correct usage
+
+2020-04-10 09:53:53,643 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 09:59:12,257 WARN clearConfigHistory start
+
+2020-04-10 10:03:53,648 INFO [capacityManagement] start correct usage
+
+2020-04-10 10:03:53,648 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 10:09:12,260 WARN clearConfigHistory start
+
+2020-04-10 10:13:53,653 INFO [capacityManagement] start correct usage
+
+2020-04-10 10:13:53,654 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 10:19:12,265 WARN clearConfigHistory start
+
+2020-04-10 10:23:53,656 INFO [capacityManagement] start correct usage
+
+2020-04-10 10:23:53,660 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 10:29:12,266 WARN clearConfigHistory start
+
+2020-04-10 10:33:53,662 INFO [capacityManagement] start correct usage
+
+2020-04-10 10:33:53,665 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 10:39:12,270 WARN clearConfigHistory start
+
+2020-04-10 10:43:53,665 INFO [capacityManagement] start correct usage
+
+2020-04-10 10:43:53,668 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 10:49:12,274 WARN clearConfigHistory start
+
+2020-04-10 10:53:53,669 INFO [capacityManagement] start correct usage
+
+2020-04-10 10:53:53,672 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 10:59:12,276 WARN clearConfigHistory start
+
+2020-04-10 11:03:53,672 INFO [capacityManagement] start correct usage
+
+2020-04-10 11:03:53,676 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 11:09:12,281 WARN clearConfigHistory start
+
+2020-04-10 11:13:53,678 INFO [capacityManagement] start correct usage
+
+2020-04-10 11:13:53,679 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 11:19:12,285 WARN clearConfigHistory start
+
+2020-04-10 11:23:53,681 INFO [capacityManagement] start correct usage
+
+2020-04-10 11:23:53,687 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 11:29:12,289 WARN clearConfigHistory start
+
+2020-04-10 11:33:53,688 INFO [capacityManagement] start correct usage
+
+2020-04-10 11:33:53,690 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 11:39:12,292 WARN clearConfigHistory start
+
+2020-04-10 11:43:53,692 INFO [capacityManagement] start correct usage
+
+2020-04-10 11:43:53,698 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 11:49:12,296 WARN clearConfigHistory start
+
+2020-04-10 11:53:53,700 INFO [capacityManagement] start correct usage
+
+2020-04-10 11:53:53,702 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 11:59:12,300 WARN clearConfigHistory start
+
+2020-04-10 12:03:53,703 INFO [capacityManagement] start correct usage
+
+2020-04-10 12:03:53,705 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 12:09:12,305 WARN clearConfigHistory start
+
+2020-04-10 12:13:53,707 INFO [capacityManagement] start correct usage
+
+2020-04-10 12:13:53,709 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 12:19:12,310 WARN clearConfigHistory start
+
+2020-04-10 12:23:53,712 INFO [capacityManagement] start correct usage
+
+2020-04-10 12:23:53,714 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 12:29:12,315 WARN clearConfigHistory start
+
+2020-04-10 12:33:53,715 INFO [capacityManagement] start correct usage
+
+2020-04-10 12:33:53,720 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 12:39:12,316 WARN clearConfigHistory start
+
+2020-04-10 12:43:53,722 INFO [capacityManagement] start correct usage
+
+2020-04-10 12:43:53,724 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 12:49:12,319 WARN clearConfigHistory start
+
+2020-04-10 12:53:53,726 INFO [capacityManagement] start correct usage
+
+2020-04-10 12:53:53,731 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 12:59:12,321 WARN clearConfigHistory start
+
+2020-04-10 13:03:53,733 INFO [capacityManagement] start correct usage
+
+2020-04-10 13:03:53,735 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 13:09:12,324 WARN clearConfigHistory start
+
+2020-04-10 13:27:43,417 WARN clearConfigHistory start
+
+2020-04-10 13:31:09,173 INFO [capacityManagement] start correct usage
+
+2020-04-10 13:31:09,175 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 13:37:34,368 WARN clearConfigHistory start
+
+2020-04-10 13:41:09,177 INFO [capacityManagement] start correct usage
+
+2020-04-10 13:41:09,177 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 13:47:34,372 WARN clearConfigHistory start
+
+2020-04-10 13:51:09,179 INFO [capacityManagement] start correct usage
+
+2020-04-10 13:51:09,179 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 13:57:34,373 WARN clearConfigHistory start
+
+2020-04-10 14:01:09,181 INFO [capacityManagement] start correct usage
+
+2020-04-10 14:01:09,181 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 14:07:34,375 WARN clearConfigHistory start
+
+2020-04-10 14:11:09,182 INFO [capacityManagement] start correct usage
+
+2020-04-10 14:11:09,183 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 14:17:34,377 WARN clearConfigHistory start
+
+2020-04-10 14:21:09,184 INFO [capacityManagement] start correct usage
+
+2020-04-10 14:21:09,184 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 14:27:34,379 WARN clearConfigHistory start
+
+2020-04-10 14:31:09,185 INFO [capacityManagement] start correct usage
+
+2020-04-10 14:31:09,188 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 14:37:34,382 WARN clearConfigHistory start
+
+2020-04-10 14:41:09,190 INFO [capacityManagement] start correct usage
+
+2020-04-10 14:41:09,191 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 14:47:34,386 WARN clearConfigHistory start
+
+2020-04-10 14:51:09,192 INFO [capacityManagement] start correct usage
+
+2020-04-10 14:51:09,194 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 14:57:34,389 WARN clearConfigHistory start
+
+2020-04-10 15:01:09,196 INFO [capacityManagement] start correct usage
+
+2020-04-10 15:01:09,197 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 15:07:34,391 WARN clearConfigHistory start
+
+2020-04-10 15:11:09,200 INFO [capacityManagement] start correct usage
+
+2020-04-10 15:11:09,200 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 15:14:17,944 INFO Expired JWT token.
+
+2020-04-10 15:14:17,946 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-04-10 15:17:34,392 WARN clearConfigHistory start
+
+2020-04-10 15:21:09,201 INFO [capacityManagement] start correct usage
+
+2020-04-10 15:21:09,201 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 15:27:34,395 WARN clearConfigHistory start
+
+2020-04-10 15:31:09,203 INFO [capacityManagement] start correct usage
+
+2020-04-10 15:31:09,203 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 15:37:34,397 WARN clearConfigHistory start
+
+2020-04-10 15:41:09,204 INFO [capacityManagement] start correct usage
+
+2020-04-10 15:41:09,206 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 15:47:34,402 WARN clearConfigHistory start
+
+2020-04-10 15:51:09,207 INFO [capacityManagement] start correct usage
+
+2020-04-10 15:51:09,207 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 15:57:34,405 WARN clearConfigHistory start
+
+2020-04-10 16:01:09,209 INFO [capacityManagement] start correct usage
+
+2020-04-10 16:01:09,210 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 16:07:34,406 WARN clearConfigHistory start
+
+2020-04-10 16:09:10,465 INFO Expired JWT token.
+
+2020-04-10 16:09:10,466 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-04-10 16:11:09,212 INFO [capacityManagement] start correct usage
+
+2020-04-10 16:11:09,213 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 16:17:34,410 WARN clearConfigHistory start
+
+2020-04-10 16:21:09,215 INFO [capacityManagement] start correct usage
+
+2020-04-10 16:21:09,215 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 16:27:34,412 WARN clearConfigHistory start
+
+2020-04-10 16:31:09,217 INFO [capacityManagement] start correct usage
+
+2020-04-10 16:31:09,217 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 16:37:34,414 WARN clearConfigHistory start
+
+2020-04-10 16:41:09,218 INFO [capacityManagement] start correct usage
+
+2020-04-10 16:41:09,218 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 16:47:34,416 WARN clearConfigHistory start
+
+2020-04-10 16:51:09,219 INFO [capacityManagement] start correct usage
+
+2020-04-10 16:51:09,219 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 16:57:34,419 WARN clearConfigHistory start
+
+2020-04-10 17:01:09,221 INFO [capacityManagement] start correct usage
+
+2020-04-10 17:01:09,221 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 17:07:34,422 WARN clearConfigHistory start
+
+2020-04-10 17:11:09,222 INFO [capacityManagement] start correct usage
+
+2020-04-10 17:11:09,226 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 17:17:34,424 WARN clearConfigHistory start
+
+2020-04-10 17:21:09,227 INFO [capacityManagement] start correct usage
+
+2020-04-10 17:21:09,228 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 17:27:34,427 WARN clearConfigHistory start
+
+2020-04-10 17:31:09,229 INFO [capacityManagement] start correct usage
+
+2020-04-10 17:31:09,229 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 17:37:34,428 WARN clearConfigHistory start
+
+2020-04-10 17:41:09,230 INFO [capacityManagement] start correct usage
+
+2020-04-10 17:41:09,230 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 17:47:34,429 WARN clearConfigHistory start
+
+2020-04-10 17:51:09,231 INFO [capacityManagement] start correct usage
+
+2020-04-10 17:51:09,231 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 17:57:34,432 WARN clearConfigHistory start
+
+2020-04-10 18:01:09,232 INFO [capacityManagement] start correct usage
+
+2020-04-10 18:01:09,232 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 18:07:34,434 WARN clearConfigHistory start
+
+2020-04-10 18:11:09,234 INFO [capacityManagement] start correct usage
+
+2020-04-10 18:11:09,238 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 18:17:34,437 WARN clearConfigHistory start
+
+2020-04-10 18:21:09,239 INFO [capacityManagement] start correct usage
+
+2020-04-10 18:21:09,240 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 18:27:34,439 WARN clearConfigHistory start
+
+2020-04-10 18:31:09,242 INFO [capacityManagement] start correct usage
+
+2020-04-10 18:31:09,243 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 18:37:34,443 WARN clearConfigHistory start
+
+2020-04-10 18:41:09,245 INFO [capacityManagement] start correct usage
+
+2020-04-10 18:41:09,249 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 18:47:34,447 WARN clearConfigHistory start
+
+2020-04-10 18:51:09,252 INFO [capacityManagement] start correct usage
+
+2020-04-10 18:51:09,254 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 18:57:34,450 WARN clearConfigHistory start
+
+2020-04-10 19:01:09,255 INFO [capacityManagement] start correct usage
+
+2020-04-10 19:01:09,256 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 19:07:34,453 WARN clearConfigHistory start
+
+2020-04-10 19:11:09,258 INFO [capacityManagement] start correct usage
+
+2020-04-10 19:11:09,259 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 19:17:34,457 WARN clearConfigHistory start
+
+2020-04-10 19:21:09,260 INFO [capacityManagement] start correct usage
+
+2020-04-10 19:21:09,263 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 19:27:34,460 WARN clearConfigHistory start
+
+2020-04-10 19:31:09,264 INFO [capacityManagement] start correct usage
+
+2020-04-10 19:31:09,269 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 19:37:34,464 WARN clearConfigHistory start
+
+2020-04-10 19:41:09,271 INFO [capacityManagement] start correct usage
+
+2020-04-10 19:41:09,272 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 19:47:34,468 WARN clearConfigHistory start
+
+2020-04-10 19:51:09,274 INFO [capacityManagement] start correct usage
+
+2020-04-10 19:51:09,278 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 19:57:34,473 WARN clearConfigHistory start
+
+2020-04-10 20:01:09,279 INFO [capacityManagement] start correct usage
+
+2020-04-10 20:01:09,281 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 20:07:34,478 WARN clearConfigHistory start
+
+2020-04-10 20:11:09,283 INFO [capacityManagement] start correct usage
+
+2020-04-10 20:11:09,287 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 20:17:34,483 WARN clearConfigHistory start
+
+2020-04-10 20:21:09,287 INFO [capacityManagement] start correct usage
+
+2020-04-10 20:21:09,289 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 20:27:34,487 WARN clearConfigHistory start
+
+2020-04-10 20:31:09,291 INFO [capacityManagement] start correct usage
+
+2020-04-10 20:31:09,291 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 20:37:34,489 WARN clearConfigHistory start
+
+2020-04-10 20:41:09,293 INFO [capacityManagement] start correct usage
+
+2020-04-10 20:41:09,294 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 20:47:34,490 WARN clearConfigHistory start
+
+2020-04-10 20:51:09,296 INFO [capacityManagement] start correct usage
+
+2020-04-10 20:51:09,298 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 21:56:44,874 WARN clearConfigHistory start
+
+2020-04-10 22:02:41,273 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:02:41,275 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:06:44,875 WARN clearConfigHistory start
+
+2020-04-10 22:12:41,277 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:12:41,279 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:16:44,879 WARN clearConfigHistory start
+
+2020-04-10 22:22:41,281 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:22:41,283 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:26:44,883 WARN clearConfigHistory start
+
